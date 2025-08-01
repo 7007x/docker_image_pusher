@@ -1,6 +1,7 @@
 nginx
 mysql
-minio
+minio/minio:RELEASE.2024-12-18T13-15-44Z
+minio/minio:RELEASE.2023-03-24T21-41-23Z
 redis
 rabbitmq
 mongo
