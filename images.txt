@@ -4,6 +4,9 @@ minio/minio:RELEASE.2024-12-18T13-15-44Z
 minio/minio:RELEASE.2023-03-24T21-41-23Z
 redis
 bitnami/redis
+bitnami/minio:2024-debian-11
+bitnami/nginx:1.29.0
+bitnami/mysql
 rabbitmq
 mongo
 wordpress
